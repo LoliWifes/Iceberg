@@ -52,6 +52,8 @@
 
 Download latest version of Injector and Iceberg.bin from repository or release section, copy them in the same directory. Run IcebergInjector.exe (renamed after each execution to prevent detections) press Inject while Blazing Sails running. Enjoy!
 
+Or download IcebergLoader from Release section. Run. It will download/update Iceberg.bin. Click Inject. Enjoy.
+
 ## Support
 
 XMR - 44n7T1gbXKXUbt6EKQ5kkY2fSUxJ7B9NubC7N2JPfduCLAfK1op9acuJRhAxW2SvYjRGnidg1hX6B3m1qTGVcKwy4eTP4mf\
