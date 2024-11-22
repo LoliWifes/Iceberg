@@ -54,8 +54,9 @@ Download latest version of Injector and Iceberg.bin from repository or release s
 
 ## Support
 
-XMR: 44n7T1gbXKXUbt6EKQ5kkY2fSUxJ7B9NubC7N2JPfduCLAfK1op9acuJRhAxW2SvYjRGnidg1hX6B3m1qTGVcKwy4eTP4mf
-BTC: bc1qxlt3p3ftje64cdpud7f0graz0w5p47zrkgfgh8d3atv2jkrpyl3qasam3k
+XMR - 44n7T1gbXKXUbt6EKQ5kkY2fSUxJ7B9NubC7N2JPfduCLAfK1op9acuJRhAxW2SvYjRGnidg1hX6B3m1qTGVcKwy4eTP4mf\
+
+BTC - bc1qxlt3p3ftje64cdpud7f0graz0w5p47zrkgfgh8d3atv2jkrpyl3qasam3k
 
 
 #blazingsails #iceberg #steam #epic #cheat #hack #modmenu
